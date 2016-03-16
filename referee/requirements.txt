@@ -1,0 +1,5 @@
+pyramid==1.5.7
+gevent==1.0.2
+SQLAlchemy==1.0.9
+requests==2.8.1
+sqlalchemy_gevent==0.2

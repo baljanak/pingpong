@@ -1,0 +1,16 @@
+*.swp
+*.pyc
+*~
+*#
+*.so
+PYSMELLTAGS*
+.coverage
+.gitissues
+*.class
+*.o
+*.obj
+.pyflymakerc*
+*.egg-info
+*.egg
+.DS_Store
+*.log*
